@@ -1,0 +1,18 @@
+# Libraries for PDF processing
+PyPDF2
+pdf2image
+
+# Image processing library
+Pillow
+
+# Library for converting images back to PDF
+img2pdf
+
+# Library for handling colors
+webcolors
+
+# Numpy
+numpy
+
+# FPDF
+fpdf2
