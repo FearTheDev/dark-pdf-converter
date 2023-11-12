@@ -46,5 +46,5 @@ Once the program has completed, there will be a folder called output that contai
 [Connect on LinkedIn](https://www.linkedin.com/in/fearthedev/)
 
 **Jaquita Shoff**\
-*Data Analytics Student*\
+*Data Analyst*\
 [Connect on LinkedIn](https://www.linkedin.com/in/jaquitashoff/)
